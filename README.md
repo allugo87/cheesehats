@@ -1,2 +1,1 @@
-Well, welly well well...
-Look who managed to sync their README.md to GitHub.
+Well, welly well well...look who managed to sync their README.md to GitHub.
